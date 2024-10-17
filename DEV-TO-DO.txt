@@ -1,0 +1,23 @@
+We have ongoing HTML change needs.
+Here are some simple ones to get started.  Do well with these and there will be many more:
+
+a) Can we have an image here, that when clicked, plays a video in the same location?
+> https://monosnap.com/file/LJI9qgHVo2gNNVPiHGnEO5RQqxsJ0s
+
+b) Make icons the same size, and align them to the top of the shield:
+> https://monosnap.com/file/AMMGKXTrafUevnKBH9HSMAXocrixhO
+
+c) Make these icons appear without white div blocks (the icons ARE transparent):
+> https://monosnap.com/file/6ODTfBFc0CzuAEzhvJCZtx3SMATe4V
+
+d) Change this section to be a single circle picture (Use any placeholder) and a box in the middle.  Needs to keep that background, just remove other people faces
+> https://monosnap.com/file/Zx61VpHF7MKG3oLDW1SVX3wt75A4Uh
+
+e) Move this 3rd purple sentence up:
+> https://monosnap.com/file/YmdCc6EuwLriwaQrQ2itNvpvB2cNVB
+
+f) Video needs to go UNDER the "Schedule a Demo" button on smaller devices:
+> https://monosnap.com/file/uBigOeJyL2TS8gLm13PczIBdObcCrv
+
+g) Put these two text items next to the icon.  You can make the icon a little larger if needed:
+https://monosnap.com/file/ejN0BwUv15kY4CNx5wfi1la2DB9bvW
